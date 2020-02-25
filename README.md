@@ -1,0 +1,1 @@
+This is Sedmund's first git project!
